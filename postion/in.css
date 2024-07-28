@@ -1,0 +1,51 @@
+.div{
+    height:500px;
+    width:500px; background-color:rgb(226, 43, 153);
+    margin-left:50px;
+    top: 0;
+    
+
+}
+
+.one{
+        height: 50px;
+        width: 50px; background-color: rgb(247, 239, 239);
+        margin: 15px;
+        position: relative;
+        top: 50px;
+
+
+    
+}
+.two{
+    height: 50px;
+    width: 50px; background-color:rgb(241, 244, 245);
+    margin:70px;
+    position:static;
+    
+    
+}
+
+.three{
+    height: 50px;
+    width: 50px; background-color:rgb(43, 211, 226);
+    margin:350px;
+    margin-left :1350px ;
+    position:fixed;
+    
+    
+}
+.four{
+    height: 50px;
+    width: 50px; background-color:rgb(216, 231, 8);
+    margin:40px;
+    margin-left:550px;
+    
+    
+    
+}
+
+.h1{
+    background-color:rgb(123, 0, 255);
+}
+
